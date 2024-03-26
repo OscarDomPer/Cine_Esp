@@ -123,7 +123,7 @@ los censores
 <br>
 <div align="center">
 
-  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/copr_franq.png?raw=true" width="60%">
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/copr_franq.png?raw=true" width="70%">
   
 </div>
 El régimen franquista enfrentó cierto
@@ -147,7 +147,7 @@ dictadura.
 <br>
 <div align="center">
 
-  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/franq_musi.png?raw=true" width="60%">
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/franq_musi.png?raw=true" width="70%">
   
 </div>
 A partir de 1960, podemos observar un fuerte incremento en las producciones
@@ -162,7 +162,7 @@ otros géneros
 <br>
 <div align="center">
 
-  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/franq_social.png?raw=true" width="60%">
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/franq_social.png?raw=true" width="70%">
   
 </div>
 El riguroso control de la censura se manifiesta claramente en estas dos
@@ -170,5 +170,61 @@ temáticas: el cine político, que no tuvo presencia en España hasta el
 fallecimiento de Franco, mientras que el cine social comenzó a ganar
 terreno de manera cautelosa hacia el final del régimen, eludiendo la
 censura en la medida de lo posible.
+<br />
+<br />
+<br />
+<br />
 
+## Destape
+<br>
+<div align="center">
 
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_dest.png?raw=true" width="60%">
+  
+</div>
+Franco falleció en 1975 y con él, también
+se extinguió la censura. Esto propició la
+emergencia de un cine más contestatario,
+cuyas raíces ya se podían percibir en los
+últimos años del Franquismo. En esta
+línea, es imperativo mencionar al cine
+Quinqui, que otorgaba voz a individuos
+marginales, a menudo retratados como
+antihéroes. Otro fenómeno notable de
+esos años fue el "destape", o cine
+calificado como 'S'
+<br />
+<br />
+<br />
+<br />
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/quinqui.png?raw=true" width="70%">
+  
+</div>
+El cine quinqui y el cine político surgieron
+como dos manifestaciones
+cinematográficas distintas en la España
+post-franquista. Mientras que
+el cine quinqui se centró en la
+representación de la juventud marginal y
+desfavorecida, el cine político abordó
+cuestiones políticas y sociales de manera
+crítica. 
+<br />
+<br />
+<br />
+<br />
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/erotico.png?raw=true" width="70%">
+  
+</div>
+El género cinematográfico erótico, que era
+prácticamente inexistente hasta la muerte
+de Franco en 1975, experimentó una era
+de esplendor en los años posteriores,
+periodo que se conoce popularmente
+como el "Destape". 
