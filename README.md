@@ -34,7 +34,7 @@ español a lo largo de más de un siglo.
   
 </div>
 
-<br>
+
 En una primera aproximación a los datos, nos llamó la atención el pronunciado descenso en las
 producciones que se vivió entre 1980 y 1990. Decidimos intentar encontrar una explicación analizando
 los datos obtenidos.
@@ -48,7 +48,7 @@ los datos obtenidos.
   
 </div>
 
-<br>
+
 A nuestro entender no podemos analizar lo que ha sucedido en el periodo del valle en cuestión
 de forma aislada,sino en el contexto de toda la historia del cine español. Así que decidimos
 establecer una serie de periodos temporales, algunos puramente históricos y otros basados en
