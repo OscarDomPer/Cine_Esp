@@ -86,10 +86,8 @@ español", que finalizó abruptamente
 con el inicio de la guerra.
 <br />
 <br />
-<br>
-<br>
-Etapa inicial
--------------
+
+## Franquismo
 <br>
 <div align="center">
 
