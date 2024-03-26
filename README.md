@@ -28,6 +28,9 @@ español a lo largo de más de un siglo.
 <br />
 <br>
 <br>
+## Punto de partida
+
+<br>
 <div align="center">
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/general_1.png?raw=true" width="80%">
