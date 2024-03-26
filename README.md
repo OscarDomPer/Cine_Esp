@@ -32,7 +32,7 @@ español a lo largo de más de un siglo.
   
 </div>
 <br />
-
+<br />
 <br>
 En una primera aproximación a los datos, nos llamó la atención el pronunciado descenso en las
 producciones que se vivió entre 1980 y 1990. Decidimos intentar encontrar una explicación analizando
