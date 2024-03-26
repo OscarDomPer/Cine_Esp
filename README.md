@@ -3,6 +3,7 @@
 <br>
 
 ## Introducción
+
 <br>
 <div align="center">
 
@@ -26,6 +27,7 @@ español a lo largo de más de un siglo.
 <br />
 <br />
 <br>
+<br>
 <div align="center">
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/general_1.png?raw=true" width="80%">
@@ -38,6 +40,7 @@ producciones que se vivió entre 1980 y 1990. Decidimos intentar encontrar una e
 los datos obtenidos.
 <br />
 <br />
+<br>
 <br>
 <div align="center">
 
