@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 
-  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/port.png?raw=true" width="80%">
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/port.png?raw=true" width="60%">
   
 </div>
 <br />
