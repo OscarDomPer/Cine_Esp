@@ -305,3 +305,57 @@ asociados al cine estadounidense. La entrada de la TV privada en los 90 en Espa�
 financiación del cine nacional. Para competir por audiencia, se priorizó el cine comercial, financiando
 películas al estilo estadounidense en géneros y narrativas. Esto desvió la producción cinematográfica
 española de temáticas artísticas o experimentales hacia una orientación más comercial y masiva.
+<br />
+<br />
+<br />
+<br />
+<br>
+
+## Estudio sobre el papel de la mujer en el cine
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/igu_1.png?raw=true" width="60%">
+  
+</div>
+Durante la época dorada de los musicales
+en España, a pesar de la prominencia de
+Marisol, la relevancia de la mujer fue
+limitada. Posteriormente, tras la muerte de
+Franco y con la modernización de la
+sociedad española, la mujer ganó
+protagonismo.
+Curiosamente, la Ley Miró inicialmente
+redujo la participación femenina, pero en
+los años siguientes, al adoptar modelos
+narrativos americanos y con el impulso
+del movimiento #MeToo, la
+participación femenina se ha
+equilibrado significativamente.
+<br />
+<br />
+<br />
+<br />
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/igu_2.png?raw=true" width="60%">
+  
+</div>
+En la evolución de la nota media a lo largo
+de los años, se destaca una valoración
+más positiva por parte de las mujeres
+durante el franquismo, posiblemente
+debido al éxito de películas como las de
+Marisol. Posteriormente, la valoración se
+mantiene equilibrada hasta que, a partir
+del 2000, se observa una apreciación más
+positiva nuevamente.
+En los últimos años, la gráfica podría
+estar captando un fenómeno de
+"review bombing", ya que a pesar de
+que en esos años la presencia de la mujer
+sigue aumentando la calificación media
+presenta un descenso, afectando la
+percepción general.
+
