@@ -86,35 +86,40 @@ español", que finalizó abruptamente
 con el inicio de la guerra.
 <br />
 <br />
+<br />
+<br />
 
 ## Franquismo
 <br>
 <div align="center">
 
-  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/Etapa%20inicial.png?raw=true" width="60%">
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_franq.png?raw=true" width="60%">
   
 </div>
-La transición del cine mudo al sonoro en
-España hacia finales de los años 20 fue
-complicada, causando una casi
-paralización de la industria. La primera
-película sonora, "El misterio de la puerta
-del sol" de Francisco Elías, tuvo limitada
-proyección debido a la falta de
-equipamiento en las salas. Sin embargo,
-una vez superada esta barrera técnica, se
-produjeron exitosos films como "Morena
-Clara", "El bailarín y el trabajador", "La
-verbena de la Paloma" y "Don Quintín, el
-amargao". Estos éxitos, durante la
-Segunda República, contribuyeron a una
-era referida como "la edad de oro del cine
-español", que finalizó abruptamente
-con el inicio de la guerra.
+Durante el franquismo, el cine en España
+estuvo fuertemente influenciado por la
+censura, que limitaba la libertad de
+expresión y prohibía temas críticos con el
+régimen. A pesar de esto, gradualmente
+se produjo una apertura exterior con el
+objetivo de mejorar la imagen
+internacional de España. En términos de
+géneros, en sus inicios predominaba la
+propaganda patriótica, llegando el
+propio Franco a guionizar la película
+"Raza". Con el tiempo, el cine español
+evolucionó para abordar temas más
+variados, aunque evidentemente nunca
+molestos para el régimen, destacando
+especialmente el musical. En la última
+etapa, se produjeron películas que
+trataban cuestiones sociales, aunque
+siempre, claro está, bajo la supervisión de
+los censores
 <br />
 <br />
-<br>
-<br>
+<br />
+<br />
 
 
 
