@@ -1,9 +1,6 @@
 # La influencia de España en el cine español 
 <br>
 <br>
-
-## Introducción
-
 <br>
 <div align="center">
 
@@ -11,6 +8,8 @@
   
 </div>
 <br />
+
+## Introducción
 
 En el análisis del proyecto
 "La influencia de España en el cine
@@ -228,3 +227,81 @@ de Franco en 1975, experimentó una era
 de esplendor en los años posteriores,
 periodo que se conoce popularmente
 como el "Destape". 
+<br />
+<br />
+<br />
+<br />
+<br>
+
+## Ley Miró en adelante
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_miro.png?raw=true" width="60%">
+  
+</div>
+Durante 1983 y 2007, España
+experimentó una transición hacia la
+modernidad, marcada por la
+consolidación de la democracia y la
+celebración de la Exposición Universal de
+Sevilla en 1992. Estos cambios influyeron
+en el cine español, dando lugar a una
+"nueva ola" cinematográfica que abordó
+temas contemporáneos y diversificó la
+producción.
+<br />
+<br />
+<br />
+<br />
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/miro.png?raw=true" width="70%">
+  
+</div>
+En España durante los 60 y sobre todo los
+70, las producciones de bajo presupuesto
+no recibían el cariño de la crítica, pero las
+salas de cine se llenaban. Pilar Miró con
+una ley en 1984 sentó las bases para
+erradicar un cine que consideraba de
+dudosa calidad y premiar al que pudiera
+dar visibilidad al país en el exterior.
+Así, acabó con el cine de terror,
+fantástico, aventuras, ciencia ficción,
+acción y erótico y el supuesto "cine de
+calidad" acabó con un descenso
+abrupto de la taquilla. Muchos
+españoles dejaron de ver cine español
+<br />
+<br />
+<br />
+<br />
+<br>
+<div align="center">
+  
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/gene_miro.png?raw=true" width="70%">
+  
+</div>
+En este gráfico se evidencia la crítica principal hacia
+la ley, mostrando que ciertos géneros "populares"
+vieron disminuida su frecuencia desde la
+implementación de la ley, corroborando así las
+objeciones hacia su impacto en la variedad genérica
+del cine español.
+<br />
+<br />
+<br />
+<br />
+<br>
+<div align="center">
+  
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/gene_miro_2.png?raw=true" width="70%">
+  
+</div>
+En la gráfica, hemos destacado los géneros adolescencia, thriller y romántico, ya que generalmente están
+asociados al cine estadounidense. La entrada de la TV privada en los 90 en España afectó la
+financiación del cine nacional. Para competir por audiencia, se priorizó el cine comercial, financiando
+películas al estilo estadounidense en géneros y narrativas. Esto desvió la producción cinematográfica
+española de temáticas artísticas o experimentales hacia una orientación más comercial y masiva.
