@@ -88,7 +88,8 @@ con el inicio de la guerra.
 <br />
 <br>
 <br>
-## Punto de partida
+Franquismo
+----------
 
 <br>
 <div align="center">
