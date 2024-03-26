@@ -23,8 +23,8 @@ fechas de lanzamiento, géneros y
 calificaciones de cada película, facilitando
 así un análisis comprensivo del cine
 español a lo largo de más de un siglo. 
-
-
+<br />
+<br />
 <br>
 <div align="center">
 
