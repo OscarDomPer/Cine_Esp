@@ -56,3 +56,35 @@ A nuestro entender no podemos analizar lo que ha sucedido en el periodo del vall
 de forma aislada,sino en el contexto de toda la historia del cine español. Así que decidimos
 establecer una serie de periodos temporales, algunos puramente históricos y otros basados en
 acontecimientos culturales o económicos.
+<br />
+<br />
+<br>
+<br>
+## Etapa inicial
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/Etapa%20inicial.png?raw=true" width="80%">
+  
+</div>
+La transición del cine mudo al sonoro en
+España hacia finales de los años 20 fue
+complicada, causando una casi
+paralización de la industria. La primera
+película sonora, "El misterio de la puerta
+del sol" de Francisco Elías, tuvo limitada
+proyección debido a la falta de
+equipamiento en las salas. Sin embargo,
+una vez superada esta barrera técnica, se
+produjeron exitosos films como "Morena
+Clara", "El bailarín y el trabajador", "La
+verbena de la Paloma" y "Don Quintín, el
+amargao". Estos éxitos, durante la
+Segunda República, contribuyeron a una
+era referida como "la edad de oro del cine
+español", que finalizó abruptamente
+con el inicio de la guerra.
+
+
+
+<br>
