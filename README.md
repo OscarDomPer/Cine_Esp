@@ -120,6 +120,55 @@ los censores
 <br />
 <br />
 <br />
+<br>
+<div align="center">
 
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/copr_franq.png?raw=true" width="60%">
+  
+</div>
+El régimen franquista enfrentó cierto
+aislamiento internacional en sus primeros
+años, en parte debido a su anterior
+alineación con el Eje durante la Segunda
+Guerra Mundial. Sin embargo, en las
+décadas subsiguientes, especialmente a
+partir de la década de 1950 y en el
+contexto de la Guerra Fría, España
+experimentó una apertura gradual. Esta
+transición de aislamiento a apertura se
+refleja en el número de coproducciones
+internacionales por año, las cuales fueron
+anecdóticas en los primeros años de la
+dictadura.
+<br />
+<br />
+<br />
+<br />
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/franq_musi.png?raw=true" width="60%">
+  
+</div>
+A partir de 1960, podemos observar un fuerte incremento en las producciones
+musicales, siendo Marisol el máximo exponente de este auge del género musical.
+Esto se puede explicar, en parte, porque las producciones musicales no tenían
+cierta ventaja competitiva, al no sufrir los efectos de la censura a diferencia de
+otros géneros 
+<br />
+<br />
+<br />
+<br />
+<br>
+<div align="center">
+
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/franq_social.png?raw=true" width="60%">
+  
+</div>
+El riguroso control de la censura se manifiesta claramente en estas dos
+temáticas: el cine político, que no tuvo presencia en España hasta el
+fallecimiento de Franco, mientras que el cine social comenzó a ganar
+terreno de manera cautelosa hacia el final del régimen, eludiendo la
+censura en la medida de lo posible.
 
 
