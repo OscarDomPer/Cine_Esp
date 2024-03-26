@@ -88,9 +88,8 @@ con el inicio de la guerra.
 <br />
 <br>
 <br>
-Franquismo
-----------
-
+Etapa inicial
+-------------
 <br>
 <div align="center">
 
