@@ -15,6 +15,14 @@
 
 <br>
 <br>
+```
+|                                                     |
+|-----------------------------------------------------|
+| Esto es un ejemplo de un párrafo dentro de un recuadro simulado en Markdown. Puedes |
+| usar caracteres de barra vertical y guiones para delinear el recuadro.             |
+| ¡Incluso puedes añadir múltiples líneas para formar un recuadro más grande!        |
+|                                                     |
+```
 
 ## Tecnologías usadas
 
