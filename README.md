@@ -78,7 +78,6 @@ acontecimientos culturales o económicos.
 ## Etapa inicial
 <br>
 
-**Visión general**
 
 <div align="center">
 
@@ -142,6 +141,9 @@ los censores
 <br>
 <br>
 <br>
+**Coproducciones internacionales**
+<br>
+
 <div align="center">
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/copr_franq.png?raw=true" width="70%">
