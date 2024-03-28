@@ -12,7 +12,17 @@
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/port.png?raw=true" width="60%">
   
 </div>
-<br />
+
+<br>
+<br>
+
+## Tecnologías usadas
+
+**Lenguaje:** Python.
+
+**Librerias:** numpy, pandas, matplotlib, seaborn, plotly, requests, BeautifulSoup
+
+
 
 ## **Introducción**
 
@@ -320,6 +330,9 @@ española de temáticas artísticas o experimentales hacia una orientación más
 <br>
 <br>
 
+------------
+
+<h2>
 ## Estudio sobre el papel de la mujer en el cine
 <br>
 <div align="center">
