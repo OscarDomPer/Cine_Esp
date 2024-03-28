@@ -1,4 +1,9 @@
-# La influencia de España en el cine español 
+<div align="center">
+
+# La influencia de España en el cine español
+
+</div>
+
 <br>
 <br>
 <br>
