@@ -14,7 +14,7 @@
 </div>
 <br />
 
-## Introducción
+## **Introducción**
 
 Para este proyecto, decidimos usar la página web Filmaffinity como fuente de información para realizar un análisis enfocado en la interpretación de los datos obtenidos. A través de la técnica de web scraping, logramos extraer un primer DataFrame con la información que nos pareció relevante de todas las películas españolas de la plataforma.
 <br>
