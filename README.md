@@ -79,7 +79,6 @@ acontecimientos culturales o económicos.
 <br>
 
 **Visión general**
-<u>____________________</u>
 
 <div align="center">
 
