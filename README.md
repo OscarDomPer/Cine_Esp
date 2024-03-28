@@ -2,7 +2,7 @@
 
 # La influencia de España en el cine español
 
-<div>
+</div>
 
 <br>
 <br>
@@ -33,14 +33,14 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](http
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/general_1.png?raw=true" width="80%">
   
-<div>
+</div>
 
 
 En una primera aproximación a los datos, __nos llamó la atención el pronunciado descenso en las
 producciones que se vivió entre 1980 y 1990__. Decidimos intentar encontrar una explicación analizando
 los datos obtenidos.
-<br />
-<br />
+<br>
+<br>
 <br>
 <br>
 <div align="center">
