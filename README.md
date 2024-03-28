@@ -36,9 +36,11 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](http
 <br>
 <br>
 <br>
+
 ------------
 
 <h2>
+  
 ## Punto de partida
 
 <br>
