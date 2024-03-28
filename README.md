@@ -2,7 +2,7 @@
 
 # La influencia de España en el cine español
 
-</div>
+<div>
 
 <br>
 <br>
@@ -21,8 +21,8 @@ Para este proyecto, decidimos usar la página web ***Filmaffinity*** como fuente
 <br>
 Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](https://github.com/OscarDomPer/Cine_Esp/tree/main/Cine_Espa%C3%B1ol/Scraping)
 
-<br />
-<br />
+<br>
+<br>
 <br>
 <br>
 
@@ -33,7 +33,7 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](http
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/general_1.png?raw=true" width="80%">
   
-</div>
+<div>
 
 
 En una primera aproximación a los datos, __nos llamó la atención el pronunciado descenso en las
