@@ -65,9 +65,9 @@ acontecimientos culturales o económicos.
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/Etapa%20inicial.png?raw=true" width="60%">
   
 </div>
-La transición del cine mudo al sonoro en
+La **transición del cine mudo al sonoro en
 España hacia finales de los años 20 fue
-complicada, causando una casi
+complicada**, causando una casi
 paralización de la industria. La primera
 película sonora, "El misterio de la puerta
 del sol" de Francisco Elías, tuvo limitada
