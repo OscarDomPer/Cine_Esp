@@ -338,6 +338,7 @@ española de temáticas artísticas o experimentales hacia una orientación más
 ------------
 
 <h2>
+  
 ## Estudio sobre el papel de la mujer en el cine
 <br>
 <div align="center">
