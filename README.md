@@ -15,14 +15,6 @@
 
 <br>
 <br>
-```
-|                                                     |
-|-----------------------------------------------------|
-| Esto es un ejemplo de un párrafo dentro de un recuadro simulado en Markdown. Puedes |
-| usar caracteres de barra vertical y guiones para delinear el recuadro.             |
-| ¡Incluso puedes añadir múltiples líneas para formar un recuadro más grande!        |
-|                                                     |
-```
 
 ## Tecnologías usadas
 
@@ -85,6 +77,7 @@ acontecimientos culturales o económicos.
 <br>
 ## Etapa inicial
 <br>
+**Visión general**<u>____________________</u>
 <div align="center">
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/Etapa%20inicial.png?raw=true" width="60%">
