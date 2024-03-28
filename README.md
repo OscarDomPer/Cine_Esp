@@ -78,7 +78,8 @@ acontecimientos culturales o económicos.
 ## Etapa inicial
 <br>
 
-**Visión general**<u>____________________</u>
+**Visión general**
+<u>____________________</u>
 
 <div align="center">
 
