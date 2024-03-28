@@ -46,7 +46,7 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](http
 <br>
 <div align="center">
 
-  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/general_1.png?raw=true" width="80%">
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/pict1.png?raw=true" width="80%">
   
 </div>
 
@@ -62,7 +62,7 @@ Para ver en detalle el código de las gráficas, vease la carpeta ["Gráficos"](
 <br>
 <div align="center">
 
-  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/general_2.png?raw=true" width="80%">
+  <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/pict2.png?raw=true" width="80%">
   
 </div>
 
