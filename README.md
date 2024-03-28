@@ -141,8 +141,6 @@ los censores
 <br>
 <br>
 <br>
-**Coproducciones internacionales**
-<br>
 
 <div align="center">
 
