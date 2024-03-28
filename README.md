@@ -55,6 +55,8 @@ En una primera aproximación a los datos, __nos llamó la atención el pronuncia
 producciones que se vivió entre 1980 y 1990__. Decidimos intentar encontrar una explicación analizando
 los datos obtenidos.
 <br>
+Para ver en detalle el código de las gráficas, vease la carpeta ["Gráficos"](https://github.com/OscarDomPer/Cine_Esp/tree/main/Cine_Espa%C3%B1ol/Gr%C3%A1ficos)
+<br>
 <br>
 <br>
 <br>
@@ -386,4 +388,20 @@ que en esos años la presencia de la mujer
 sigue aumentando la calificación media
 presenta un descenso, afectando la
 percepción general.
+<br />
+<br />
+<br />
+<br />
+<br>
+
+------------
+
+<h2>
+  
+**Autores:**
+
+- **Carlos Lara** - [Linkedin](https://www.linkedin.com/in/carloslarabarrera/)
+- **Miguel Ortega**
+- **Juan Pablo Aguilar**
+- **Óscar Dominguez** - [Linkedin](https://www.linkedin.com/in/oscardominguezpereira/)
 
