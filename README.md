@@ -15,10 +15,8 @@
 <br />
 
 ## **Introducción**
-## 1. **Introducción**
 
-
-Para este proyecto, decidimos usar la página web *Filmaffinity* como fuente de información para realizar un análisis enfocado en la interpretación de los datos obtenidos. A través de la técnica de web scraping, logramos extraer un primer DataFrame con la información que nos pareció relevante de todas las películas españolas de la plataforma.
+Para este proyecto, decidimos usar la página web ***Filmaffinity*** como fuente de información para realizar un análisis enfocado en la interpretación de los datos obtenidos. A través de la técnica de web __scraping__, logramos extraer un primer DataFrame con la información que nos pareció relevante de todas las __películas españolas__ de la plataforma.
 <br>
 <br>
 Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](https://github.com/OscarDomPer/Cine_Esp/tree/main/Cine_Espa%C3%B1ol/Scraping)
@@ -38,8 +36,8 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](http
 </div>
 
 
-En una primera aproximación a los datos, nos llamó la atención el pronunciado descenso en las
-producciones que se vivió entre 1980 y 1990. Decidimos intentar encontrar una explicación analizando
+En una primera aproximación a los datos, __nos llamó la atención el pronunciado descenso en las
+producciones que se vivió entre 1980 y 1990__. Decidimos intentar encontrar una explicación analizando
 los datos obtenidos.
 <br />
 <br />
@@ -54,10 +52,10 @@ los datos obtenidos.
 
 A nuestro entender no podemos analizar lo que ha sucedido en el periodo del valle en cuestión
 de forma aislada,sino en el contexto de toda la historia del cine español. Así que decidimos
-establecer una serie de periodos temporales, algunos puramente históricos y otros basados en
+establecer una serie de __periodos temporales__, algunos puramente históricos y otros basados en
 acontecimientos culturales o económicos.
-<br />
-<br />
+<br>
+<br>
 <br>
 <br>
 ## Etapa inicial
