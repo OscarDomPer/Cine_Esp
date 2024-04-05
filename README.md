@@ -77,7 +77,6 @@ acontecimientos culturales o económicos.
 <br>
 ## Etapa inicial
 <br>
-<br>
 
 
 <div align="center">
