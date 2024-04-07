@@ -27,7 +27,7 @@
 
 ## **Introducción**
 <br>
-Para este proyecto, decidimos usar la página web ***Filmaffinity*** como fuente de información para realizar un análisis enfocado en la interpretación de los datos obtenidos. A través de la técnica de web __scraping__, logramos extraer un primer DataFrame con la información que nos pareció relevante de todas las __películas españolas__ de la plataforma.
+Para este proyecto, decidimos usar la página web ***Filmaffinity*** como fuente de información para realizar un análisis del __cine español__ enfocado en la interpretación de datos. A través de la técnica de web __scraping__, logramos extraer un primer DataFrame con la información que nos pareció relevante de todas las __películas españolas__ de la plataforma.
 <br>
 <br>
 Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](https://github.com/OscarDomPer/Cine_Esp/tree/main/Cine_Espa%C3%B1ol/Scraping)
@@ -113,7 +113,8 @@ con el inicio de la guerra.
 <div align="center">
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_franq.png?raw=true" width="60%">
-  
+  <div align="center">
+    __Figura1.__ Visión general del cine durante el Franquismo.
 </div>
 
 Durante el franquismo, el cine en España
