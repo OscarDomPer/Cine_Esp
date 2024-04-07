@@ -114,7 +114,9 @@ con el inicio de la guerra.
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_franq.png?raw=true" width="60%">
   <div align="center">
+    
     __Figura1.__ Visión general del cine durante el Franquismo.
+    <br>
 </div>
 
 Durante el franquismo, el cine en España
