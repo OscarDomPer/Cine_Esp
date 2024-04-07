@@ -110,6 +110,7 @@ con el inicio de la guerra.
 
 ## Franquismo
 <br>
+
  __Figura1.__ Visión general del cine durante el Franquismo.
 <div align="center">
 
