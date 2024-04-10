@@ -18,9 +18,16 @@
 
 ## Tecnologías usadas
 
-**Lenguaje:** Python.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Librerias:** numpy, pandas, matplotlib, seaborn, plotly, requests, BeautifulSoup
+**Librerías:**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-186FAE?style=flat&logo=plotly&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-000000?style=flat&logo=requests&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-5F9EA0?style=flat&logo=beautifulsoup&logoColor=white)
 
 <br>
 <br>
