@@ -27,6 +27,7 @@
 
 ## **Introducción**
 <br>
+
 Para este proyecto, decidimos usar la página web ***Filmaffinity*** como fuente de información para realizar un análisis del __cine español__ enfocado en la interpretación de datos. A través de la técnica de web __scraping__, logramos extraer un primer DataFrame con la información que nos pareció relevante de todas las __películas españolas__ de la plataforma.
 <br>
 <br>
