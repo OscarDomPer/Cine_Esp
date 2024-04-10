@@ -70,12 +70,12 @@ Para ver en detalle el código de las gráficas, vease la carpeta ["Gráficos"](
   
 </div>
 
-  <p align="center"><strong>Figura 2.</strong> Número de películas españolas por año con divisiónes temporales.</p>
+  <p align="center"><strong>Figura 2.</strong> Número de películas españolas por año con períodos temporales.</p>
 
 
 A nuestro entender no podemos analizar lo que ha sucedido en el periodo del valle en cuestión
 de forma aislada,sino en el contexto de toda la historia del cine español. Así que decidimos
-establecer una serie de __periodos temporales__, algunos puramente históricos y otros basados en
+establecer una serie de __períodos temporales__, algunos puramente históricos y otros basados en
 acontecimientos culturales o económicos.
 <br>
 <br>
@@ -91,6 +91,8 @@ acontecimientos culturales o económicos.
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/Etapa%20inicial.png?raw=true" width="60%">
   
 </div>
+
+<p align="center"><strong>Figura 3.</strong> Géneros más populares en esta etapa.</p>
 
 **La transición del cine mudo al sonoro en
 España hacia finales de los años 20 fue
@@ -120,11 +122,9 @@ con el inicio de la guerra.
 <div align="center">
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_franq.png?raw=true" width="60%">
-  <div align="center">
 </div>
 
- __Figura1.__ Visión general del cine durante el Franquismo.
-    <br>
+<p align="center"><strong>Figura 4.</strong> Géneros más populares durante el Franquismo.</p>
 
 Durante el franquismo, el cine en España
 estuvo fuertemente influenciado por la
@@ -158,6 +158,8 @@ los censores
   
 </div>
 
+<p align="center"><strong>Figura 5.</strong> Coproducciones internacionales durante el Franquismo.</p>
+
 El régimen franquista enfrentó cierto
 __aislamiento__ internacional en sus primeros
 años, en parte debido a su anterior
@@ -183,6 +185,8 @@ dictadura.
   
 </div>
 
+<p align="center"><strong>Figura 6.</strong> Películas musicales por año.</p>
+
 A partir de 1960, podemos observar un fuerte incremento en las producciones
 musicales, siendo __Marisol__ el máximo exponente de este auge del género musical.
 Esto se puede explicar, en parte, porque las producciones musicales no tenían
@@ -198,6 +202,8 @@ otros géneros
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/franq_social.png?raw=true" width="70%">
   
 </div>
+
+<p align="center"><strong>Figura 8.</strong> Películas de género Social y Político por año.</p>
 
 El riguroso control de la censura se manifiesta claramente en estas dos
 temáticas: el __cine político, que no tuvo presencia en España hasta el
@@ -216,6 +222,8 @@ censura en la medida de lo posible.
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_dest.png?raw=true" width="60%">
   
 </div>
+
+<p align="center"><strong>Figura 9.</strong> Géneros más populares en esta etapa.</p>
 
 Franco falleció en 1975 y con él, también
 se extinguió la censura. Esto propició la
@@ -238,6 +246,9 @@ calificado como 'S'
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/quinqui.png?raw=true" width="70%">
   
 </div>
+
+<p align="center"><strong>Figura 10.</strong> Peliculas del género "Quinqui" y Políticas por año.</p>
+
 El cine quinqui y el cine político surgieron
 como dos manifestaciones
 cinematográficas distintas en la España
@@ -257,6 +268,10 @@ crítica.
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/erotico.png?raw=true" width="70%">
   
 </div>
+
+<p align="center"><strong>Figura 11.</strong> Películas eroticas por año.</p>
+
+
 El género cinematográfico erótico, que era
 prácticamente inexistente hasta la muerte
 de Franco en 1975, experimentó una era
@@ -276,6 +291,8 @@ como el "Destape".
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_miro.png?raw=true" width="60%">
   
 </div>
+
+<p align="center"><strong>Figura 12.</strong> Géneros más populares en esta etapa.</p>
 
 __Durante 1983 y 2007, España
 experimentó una transición hacia la
@@ -297,6 +314,8 @@ producción.
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/miro.png?raw=true" width="70%">
   
 </div>
+
+<p align="center"><strong>Figura 13.</strong> Números de películas y nota media por año (1970-2000).</p>
 
 En España durante los 60 y sobre todo los
 70, las producciones de bajo presupuesto
@@ -322,6 +341,8 @@ españoles dejaron de ver cine español.__
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/gene_miro.png?raw=true" width="70%">
   
 </div>
+<p align="center"><strong>Figura 14.</strong> Declive de géneros "populares" (1970-2000).</p>
+
 
 En este gráfico se evidencia la crítica principal hacia
 la ley, mostrando que ciertos géneros *"populares"*
@@ -339,6 +360,8 @@ del cine español.
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/gene_miro_2.png?raw=true" width="70%">
   
 </div>
+<p align="center"><strong>Figura 15.</strong> Auge de géneros "Comerciales" (1970-2000).</p>
+
 
 En la gráfica, hemos destacado los géneros adolescencia, thriller y romántico, ya que generalmente están
 asociados al cine estadounidense. La entrada de la TV privada en los 90 en España afectó la
@@ -362,6 +385,9 @@ española de temáticas artísticas o experimentales hacia una orientación más
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/igu_1.png?raw=true" width="60%">
   
 </div>
+
+<p align="center"><strong>Figura 15.</strong> Número de películas por género de actor.</p>
+
 Durante la época dorada de los musicales
 en España, a pesar de la prominencia de
 Marisol, la relevancia de la mujer fue
@@ -386,6 +412,8 @@ equilibrado significativamente.
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/igu_2.png?raw=true" width="60%">
   
 </div>
+<p align="center"><strong>Figura 14.</strong> Nota media por género a lo largo de los años.</p>
+
 En la evolución de la nota media a lo largo
 de los años, se destaca una valoración
 más positiva por parte de las mujeres
