@@ -51,11 +51,10 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scraping"](https
   
 </div>
 
-  <br>
 
- <p align="center"><small>__Figura1.__ Visión general del cine durante el Franquismo.</small></p>
-
-  <br>
+ <p align="center">
+   <small>__Figura1.__ Visión general del cine durante el Franquismo.</small>
+ </p>
 
 En una primera aproximación a los datos, __nos llamó la atención el pronunciado descenso en las
 producciones que se vivió entre 1980 y 1990__. Decidimos intentar encontrar una explicación analizando
