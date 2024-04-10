@@ -31,7 +31,7 @@
 Para este proyecto, decidimos usar la página web ***Filmaffinity*** como fuente de información para realizar un análisis del __cine español__ enfocado en la interpretación de datos. A través de la técnica de web __scraping__, logramos extraer un primer DataFrame con la información que nos pareció relevante de todas las __películas españolas__ de la plataforma.
 <br>
 <br>
-Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](https://github.com/OscarDomPer/Cine_Esp/tree/main/Cine_Espa%C3%B1ol/Scraping)
+Para ver en detalle el código del scraping, vease la carpeta ["Scraping"](https://github.com/OscarDomPer/Cine_Esp/tree/main/Cine_Espa%C3%B1ol/Scraping)
 
 <br>
 <br>
@@ -50,7 +50,12 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scrapping"](http
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/pict1.png?raw=true" width="80%">
   
 </div>
+  <div align="center">
+</div>
 
+ __Figura 1.__ Número de películas españolas por año.
+ 
+    <br>
 
 En una primera aproximación a los datos, __nos llamó la atención el pronunciado descenso en las
 producciones que se vivió entre 1980 y 1990__. Decidimos intentar encontrar una explicación analizando
@@ -66,7 +71,11 @@ Para ver en detalle el código de las gráficas, vease la carpeta ["Gráficos"](
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/pict2.png?raw=true" width="80%">
   
 </div>
+  <div align="center">
+</div>
 
+ __Figura 2.__ Número de películas por año con división temporal.
+    <br>
 
 A nuestro entender no podemos analizar lo que ha sucedido en el periodo del valle en cuestión
 de forma aislada,sino en el contexto de toda la historia del cine español. Así que decidimos
