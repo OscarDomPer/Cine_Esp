@@ -50,6 +50,7 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scraping"](https
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/pict1.png?raw=true" width="80%">
   
 </div>
+
   <div align="center">
 </div>
 
@@ -72,6 +73,7 @@ Para ver en detalle el código de las gráficas, vease la carpeta ["Gráficos"](
   
 </div>
   <div align="center">
+    
 </div>
 
  __Figura 2.__ Número de películas por año con división temporal.
