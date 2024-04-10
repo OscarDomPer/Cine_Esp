@@ -52,7 +52,7 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scraping"](https
 </div>
 
 
-<p align="center"><strong>Figura 1.</strong> Visión general del cine durante el Franquismo.</p>
+<p align="center"><strong>Figura 1.</strong> Número de películas españolas por año.</p>
 
 
 En una primera aproximación a los datos, __nos llamó la atención el pronunciado descenso en las
@@ -69,13 +69,9 @@ Para ver en detalle el código de las gráficas, vease la carpeta ["Gráficos"](
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/pict2.png?raw=true" width="80%">
   
 </div>
-  <div align="center">
-    
-</div>
 
- __Figura 2.__ Número de películas por año con división temporal.
- 
-    <br>
+  <p align="center"><strong>Figura 2.</strong> Número de películas españolas por año con divisiónes temporales.</p>
+
 
 A nuestro entender no podemos analizar lo que ha sucedido en el periodo del valle en cuestión
 de forma aislada,sino en el contexto de toda la historia del cine español. Así que decidimos
