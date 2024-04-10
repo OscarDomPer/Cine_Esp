@@ -52,7 +52,7 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scraping"](https
 </div>
 
 
-<p align="center"><small><strong>Figura 1.</strong> Visión general del cine durante el Franquismo.</small></p>
+<p align="center"><strong>Figura 1.</strong> Visión general del cine durante el Franquismo.</p>
 
 
 En una primera aproximación a los datos, __nos llamó la atención el pronunciado descenso en las
