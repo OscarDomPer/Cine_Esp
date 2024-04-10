@@ -269,7 +269,7 @@ crítica.
   
 </div>
 
-<p align="center"><strong>Figura 11.</strong> Películas eroticas por año.</p>
+<p align="center"><strong>Figura 11.</strong> Películas eróticas por año.</p>
 
 
 El género cinematográfico erótico, que era
