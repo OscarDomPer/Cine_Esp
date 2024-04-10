@@ -57,7 +57,7 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scraping"](https
 
  __Figura 1.__ Número de películas españolas por año.
  
-    <br>
+  <br>
 
 En una primera aproximación a los datos, __nos llamó la atención el pronunciado descenso en las
 producciones que se vivió entre 1980 y 1990__. Decidimos intentar encontrar una explicación analizando
@@ -125,7 +125,6 @@ con el inicio de la guerra.
 ## Franquismo
 <br>
 
- __Figura1.__ Visión general del cine durante el Franquismo.
 <div align="center">
 
   <img src="https://github.com/OscarDomPer/Cine_Esp/blob/main/Cine_Espa%C3%B1ol/Im%C3%A1genes/vista_franq.png?raw=true" width="60%">
