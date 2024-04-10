@@ -52,6 +52,7 @@ Para ver en detalle el código del scraping, vease la carpeta ["Scraping"](https
 </div>
 
   <div align="center">
+    
 </div>
 
  __Figura 1.__ Número de películas españolas por año.
@@ -77,6 +78,7 @@ Para ver en detalle el código de las gráficas, vease la carpeta ["Gráficos"](
 </div>
 
  __Figura 2.__ Número de películas por año con división temporal.
+ 
     <br>
 
 A nuestro entender no podemos analizar lo que ha sucedido en el periodo del valle en cuestión
